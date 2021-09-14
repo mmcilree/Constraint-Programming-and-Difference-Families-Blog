@@ -1,4 +1,4 @@
-# More variations and examples of External Differences Families
+# More variations on External Differences Families
 
 We've had *differences sets*, *difference families*, *external difference families*, *strong external difference families* and *generalised strong external difference families*...
 
