@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "ed15db4ce4b65342",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9773edba37030b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Post 4 - Proving Lower Bounds on Weak AMD Codes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc5a3fd60eefe304",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc2aa976835d1a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7e478a8d400a78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb340610d4be025d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b63e4775199920e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f32324e6ff3857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2d082e55ce0d93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Post 4 - Proving Lower Bounds on Weak AMD Codes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee9773edba37030b",
+  "lastOpenFiles": [
+    "Post 4 - Proving Lower Bounds on Weak AMD Codes.md",
+    "Post 1 - What are Generalised Strong External Difference Families.md",
+    "Post 2 - Algebraic Manipulation Detection Codes.md",
+    "Post 3 - More variations on External Differences Families.md"
+  ]
+}
